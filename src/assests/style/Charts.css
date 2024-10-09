@@ -1,0 +1,21 @@
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.backButton {
+  display: flex;
+}
+.backLink {
+  background-color: rgb(53, 240, 178);
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: none;
+}

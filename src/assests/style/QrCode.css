@@ -1,0 +1,49 @@
+.mainContainer {
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px 5px #888888;
+  width: 300px;
+  height: 260px;
+  margin: auto;
+}
+
+.subContainer {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+label {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 10px;
+  min-width: 80px;
+  text-align: right;
+  font-weight: bold;
+}
+input {
+  width: 150px;
+  height: 20px;
+  padding: 5px;
+}
+.primary {
+  background-color: green;
+  height: 40px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
+
+.backButton {
+  display: flex;
+}
+.backLink {
+  background-color: rgb(53, 240, 178);
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: none;
+}

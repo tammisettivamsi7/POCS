@@ -1,0 +1,59 @@
+.signContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 400px;
+  border: 1px solid #000;
+  margin: 60px auto;
+  flex-direction: column;
+}
+
+.penSelection {
+  width: 100px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.sub-Container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.sub-Container button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: green;
+  color: #fff;
+  cursor: pointer;
+  width: 60px;
+}
+.deleteButton {
+  background-color: red;
+  width: 60px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+.backButton {
+  display: flex;
+}
+.backLink {
+  background-color: rgb(53, 240, 178);
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.sub-Container button:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}

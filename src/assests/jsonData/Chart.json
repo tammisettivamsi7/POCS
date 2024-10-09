@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "month": "Jan",
+        "TV": "sony",
+        "value": 400
+    },
+    {
+        "id": 2,
+        "month": "Feb",
+        "TV": "sony",
+        "value": 200
+    },
+    {
+        "id": 3,
+        "month": "Mar",
+        "TV": "sony",
+        "value": 300
+    },
+    {
+        "id": 4,
+        "month": "Apr",
+        "TV": "sony",
+        "value": 100
+    },
+    {
+        "id": 5,
+        "month": "May",
+        "TV": "sony",
+        "value": 300
+    },
+    {
+        "id": 6,
+        "month": "June",
+        "TV": "sony",
+        "value": 200
+    },
+    {
+        "id": 7,
+        "month": "July",
+        "TV": "sony",
+        "value": 300
+    },
+    {
+        "id": 8,
+        "month": "Aug",
+        "TV": "sony",
+        "value": 100
+    },
+    {
+        "id": 9,
+        "month": "Sep",
+        "TV": "sony",
+        "value": 200
+    },
+    {
+        "id": 10,
+        "month": "Oct",
+        "TV": "sony",
+        "value": 300
+    },
+    {
+        "id": 11,
+        "month": "Nov",
+        "TV": "sony",
+        "value": 400
+    },
+    {
+        "id": 12,
+        "month": "Dec",
+        "TV": "sony",
+        "value": 500
+    }
+]
